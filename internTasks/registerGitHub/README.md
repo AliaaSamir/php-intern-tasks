@@ -15,5 +15,5 @@ In Home page you can logout and you have the option to login again.
 ### Description video
 This video show how this page work:
 #
-[![GitHub Registeration Demo](http://img.youtube.com/vi/u9Ru5gWlr3o/0.jpg)](http://www.youtube.com/watch?v=u9Ru5gWlr3o "GitHub Registeration Demo")
+[![GitHub Registeration Demo](http://img.youtube.com/vi/u9Ru5gWlr3o/0.jpg)](http://www.youtube.com/watch?v=u9Ru5gWlr3o "GitHub Registeration Demo click to open")
 
