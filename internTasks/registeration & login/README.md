@@ -12,5 +12,5 @@ In Home page you can logout and you have the option to login again
 ## Demo
 This video show how this app work:
 ######
-[![Registeration Demo](http://img.youtube.com/vi/_cbrQZN8YVA/0.jpg)](http://www.youtube.com/watch?v=_cbrQZN8YVA "Registeration Demo")
+[![Registeration Demo click to open](http://img.youtube.com/vi/_cbrQZN8YVA/0.jpg)](http://www.youtube.com/watch?v=_cbrQZN8YVA "Registeration Demo")
 
